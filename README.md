@@ -1,4 +1,4 @@
-# 💻 Hey there! I'm [Vaibhav Dhiman] 👋
+# 💻 Hey there! I'm Vaibhav Dhiman 👋
 
 **Welcome to my GitHub!** I'm a passionate **Web Developer** currently in my 4th year of tech studies. I'm on a mission to sharpen my skills, build cool projects, and ultimately become a **high-level web developer** who creates intuitive, user-friendly web experiences.
 
@@ -11,7 +11,7 @@
 - 🌱 **Always Learning** | Constantly exploring new technologies, frameworks, and best practices
 - 🛠️ **Tech Stack**:
   - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-  - **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white)[TailwindCSS](https://img.shields.io/badge/-TailwindCSS-61DAFB?style=flat&logo=React&logoColor=white)[BootStrap](https://img.shields.io/badge/-BootStrap-61DAFB?style=flat&logo=React&logoColor=white)
+  - **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-61DAFB?style=flat&logo=React&logoColor=white) ![BootStrap](https://img.shields.io/badge/-BootStrap-61DAFB?style=flat&logo=React&logoColor=white)
   - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white)
 
 ---
