@@ -18,17 +18,17 @@
 
 ## 🛠️ Projects and Contributions
 
-- **[A University website]**: A simple university project built with HTML, CSS, and JavaScript that provides information about the university, including details on alumni, courses, and infrastructure.[Check it here](https://github.com/VaibhavDhiman02/Responsive-website).
-- **[A Simple Animation]**: A basic animation project using HTML and CSS that demonstrates hover effects on various elements.[check it here](https://github.com/VaibhavDhiman02/Animations).
-- **[A Simple Image-Animation]**: A simple project using HTML and CSS that shows animations on images when they are hovered over.[check it here](https://github.com/VaibhavDhiman02/Image-Animation).
-- **[A Static Website for a Coffee Shop]**: A static website for a coffee shop built using HTML and CSS, showcasing the shop's offerings with stylish design and hover effects.[check it here](https://github.com/VaibhavDhiman02/Coffee_shop).
-- **[Dark Mode Button]**: A basic project using HTML, CSS, and JavaScript that adds a Dark mode button to toggle between light and dark themes on the website.[Check it here](https://github.com/VaibhavDhiman02/DarkMode_Toggle).
-- **[Weather App]**: A simple weather web app built with HTML, CSS, and JavaScript that uses APIs to display current weather information.[Check it here](https://github.com/VaibhavDhiman02/Weather_App).
-- **[Random Joke Generator]**: A project using HTML, CSS, and JavaScript with APIs to generate and display random jokes on demand.[Check it here](https://github.com/VaibhavDhiman02/Joke-Generator).
-- **[Calculator App]**: A simple calculator project built with HTML, CSS, and JavaScript for basic arithmetic operations.[Check it here](https://github.com/VaibhavDhiman02/CalculatorApp).
-- **[Tic-Tac-Toe Game]**: A simple Tic-Tac-Toe game created with HTML, CSS, and JavaScript for interactive gameplay in the browser.[Check it here](https://github.com/VaibhavDhiman02/Tic-Tac-Toe-Game).
-- **[Amazon Clone]**: A simple Amazon clone project built with HTML, and CSS displays the UI part of the Website.[Check it here](https://github.com/VaibhavDhiman02/amazonClone).
-- **[Rock-Paper-Scissors Game]**: A simple Rock-Paper-Scissors Game created with HTML, CSS, and JavaScript for interactive gameplay in the browser. [Check it here](https://github.com/VaibhavDhiman02/Rock-paper-Scissors-Game).
+- **A University website**: A simple university project built with HTML, CSS, and JavaScript that provides information about the university, including details on alumni, courses, and infrastructure.[Check it here](https://github.com/VaibhavDhiman02/Responsive-website).
+- **A Simple Animation**: A basic animation project using HTML and CSS that demonstrates hover effects on various elements.[check it here](https://github.com/VaibhavDhiman02/Animations).
+- **A Simple Image-Animation**: A simple project using HTML and CSS that shows animations on images when they are hovered over.[check it here](https://github.com/VaibhavDhiman02/Image-Animation).
+- **A Static Website for a Coffee Shop**: A static website for a coffee shop built using HTML and CSS, showcasing the shop's offerings with stylish design and hover effects.[check it here](https://github.com/VaibhavDhiman02/Coffee_shop).
+- **Dark Mode Button**: A basic project using HTML, CSS, and JavaScript that adds a Dark mode button to toggle between light and dark themes on the website.[Check it here](https://github.com/VaibhavDhiman02/DarkMode_Toggle).
+- **Weather App**: A simple weather web app built with HTML, CSS, and JavaScript that uses APIs to display current weather information.[Check it here](https://github.com/VaibhavDhiman02/Weather_App).
+- **Random Joke Generator**: A project using HTML, CSS, and JavaScript with APIs to generate and display random jokes on demand.[Check it here](https://github.com/VaibhavDhiman02/Joke-Generator).
+- **Calculator App**: A simple calculator project built with HTML, CSS, and JavaScript for basic arithmetic operations.[Check it here](https://github.com/VaibhavDhiman02/CalculatorApp).
+- **Tic-Tac-Toe Game**: A simple Tic-Tac-Toe game created with HTML, CSS, and JavaScript for interactive gameplay in the browser.[Check it here](https://github.com/VaibhavDhiman02/Tic-Tac-Toe-Game).
+- **Amazon Clone**: A simple Amazon clone project built with HTML, and CSS displays the UI part of the Website.[Check it here](https://github.com/VaibhavDhiman02/amazonClone).
+- **Rock-Paper-Scissors Game**: A simple Rock-Paper-Scissors Game created with HTML, CSS, and JavaScript for interactive gameplay in the browser. [Check it here](https://github.com/VaibhavDhiman02/Rock-paper-Scissors-Game).
 
 *...more projects coming soon! Stay tuned...*
 
@@ -46,7 +46,7 @@
 
 - **LinkedIn**: [Vaibhav Dhiman](https://www.linkedin.com/in/vaibhav-dhiman-308bab213/)
 - **Email**: [dhimanvaibhav839@gmail.com](dhimanvaibhav839@gmail.com)
-- **Twitter**: [@vaibhav8073](https://instagram.com/vaibhav8073/)
+- **Instagram**: [@vaibhav8073](https://instagram.com/vaibhav8073/)
 
 ---
 
