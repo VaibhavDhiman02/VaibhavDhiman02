@@ -2,6 +2,8 @@
 
 **Welcome to my GitHub!** I'm a passionate **Web Developer** currently in my 4th year of tech studies. I'm on a mission to sharpen my skills, build cool projects, and ultimately become a **high-level web developer** who creates intuitive, user-friendly web experiences.
 
+[![Download CV](https://img.shields.io/badge/Download%20CV-Click%20Here-blue)](https://github.com/VaibhavDhiman02/CV/blob/main/new%20CV.pdf)
+
 ---
 
 ## 🚀 About Me
